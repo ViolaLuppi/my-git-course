@@ -10,7 +10,7 @@ max_value = max(values)
 min_value = min(values)
 dev = statistics.stdev(values)
 
-print(f"Mean: {mean_value:.2f}")
+print(f"Average: {mean_value:.2f}")
 print(f"Median: {median_value: .2f}")
 print(f"Standard deviation: {dev}")
 print(f"Max:  {max_value}")
