@@ -5,6 +5,8 @@ values = [4, 8, 15, 16, 23, 42]
 
 mean_value = sum(values) / len(values)
 max_value = max(values)
+min_value = min(values)
 
 print(f"Mean: {mean_value:.2f}")
 print(f"Max:  {max_value}")
+print(f"Min: {min_value}")
